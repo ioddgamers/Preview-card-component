@@ -127,6 +127,10 @@ button {
     color: white;
 }
 
+.attribution {
+    text-align: center;
+}
+
 
 @media (max-width:481px) {
     body {
